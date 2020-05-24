@@ -1,4 +1,4 @@
-# IP RECON TOOL
+# ICMP Network Scanner
 
 Scan A Network To Discover Live Hosts Using ICMP echo requests
 
